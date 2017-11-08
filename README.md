@@ -2,7 +2,7 @@
 ios底部弹出选择视图，类似微信、微博、支付宝等应用中的选择视图效果<br>
 ### 效果图GIF
 
-![效果预览](http://upload-images.jianshu.io/upload_images/8015461-2a30d6eaa0a1a3d6.gif?imageMogr2/auto-orient/strip)
+<img src="https://github.com/micyo202/YZBottomSelectView/raw/master/20171101181512.gif" alt="效果预览" title="效果预览">
 
 ### 如何使用
 * 使用 CocoaPods方式：`pod 'YZBottomSelectView'`
