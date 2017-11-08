@@ -42,10 +42,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		180A90AD1FB2A3ED00F7D213 /* YZBottomSelectViewDemo */ = {
+			isa = PBXGroup;
+			children = (
+				18A274181FA9BAD600E8FA0F /* ViewController.h */,
+				18A274191FA9BAD600E8FA0F /* ViewController.m */,
+				18A2741B1FA9BAD600E8FA0F /* Main.storyboard */,
+			);
+			path = YZBottomSelectViewDemo;
+			sourceTree = "<group>";
+		};
+		180A90AE1FB2A41700F7D213 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				18A274151FA9BAD600E8FA0F /* AppDelegate.h */,
+				18A274161FA9BAD600E8FA0F /* AppDelegate.m */,
+				18A2741E1FA9BAD600E8FA0F /* Assets.xcassets */,
+				18A274201FA9BAD600E8FA0F /* LaunchScreen.storyboard */,
+				18A274231FA9BAD600E8FA0F /* Info.plist */,
+				18A274241FA9BAD600E8FA0F /* main.m */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
 		18A274091FA9BAD600E8FA0F = {
 			isa = PBXGroup;
 			children = (
 				18A274141FA9BAD600E8FA0F /* YZBottomSelectView */,
+				180A90AD1FB2A3ED00F7D213 /* YZBottomSelectViewDemo */,
+				180A90AE1FB2A41700F7D213 /* Supporting Files */,
 				18A274131FA9BAD600E8FA0F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,27 +86,10 @@
 		18A274141FA9BAD600E8FA0F /* YZBottomSelectView */ = {
 			isa = PBXGroup;
 			children = (
-				18A2742B1FA9BB1300E8FA0F /* Plugins */,
-				18A274151FA9BAD600E8FA0F /* AppDelegate.h */,
-				18A274161FA9BAD600E8FA0F /* AppDelegate.m */,
-				18A274181FA9BAD600E8FA0F /* ViewController.h */,
-				18A274191FA9BAD600E8FA0F /* ViewController.m */,
-				18A2741B1FA9BAD600E8FA0F /* Main.storyboard */,
-				18A2741E1FA9BAD600E8FA0F /* Assets.xcassets */,
-				18A274201FA9BAD600E8FA0F /* LaunchScreen.storyboard */,
-				18A274231FA9BAD600E8FA0F /* Info.plist */,
-				18A274241FA9BAD600E8FA0F /* main.m */,
-			);
-			path = YZBottomSelectView;
-			sourceTree = "<group>";
-		};
-		18A2742B1FA9BB1300E8FA0F /* Plugins */ = {
-			isa = PBXGroup;
-			children = (
 				18A2742C1FA9BB2F00E8FA0F /* YZBottomSelectView.h */,
 				18A2742D1FA9BB2F00E8FA0F /* YZBottomSelectView.m */,
 			);
-			path = Plugins;
+			path = YZBottomSelectView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -293,7 +301,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = YZBottomSelectView/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yan.YZBottomSelectView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -306,7 +314,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = YZBottomSelectView/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yan.YZBottomSelectView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
