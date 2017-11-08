@@ -3,7 +3,7 @@
 //  YZBottomSelectView
 //
 //  Created by Apple on 2017/11/1.
-//  Copyright © 2017年 yan. All rights reserved.
+//  Copyright © 2017年 Yanzheng. All rights reserved.
 //
 
 #import "ViewController.h"

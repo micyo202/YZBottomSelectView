@@ -1,11 +1,11 @@
 /************************************************************
  Class    : YZBottomSelectView.h
- Describe : 自己封装的底部选择框视图
+ Describe : 底部弹出选择视图
  Company  : Prient
- Author   : Yanzheng 严正
+ Author   : Yanzheng
  Date     : 2017-11-01
- Version  : 1.0
  Declare  : Copyright © 2017 Yanzheng. All rights reserved.
+ URL      : https://github.com/micyo202/YZBottomSelectView
  ************************************************************/
 
 #import <UIKit/UIKit.h>
