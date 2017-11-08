@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = 'YZBottomSelectView'
-    s.version      = '0.0.1'
+    s.version      = '1.0.0'
     s.summary      = 'Bottom pop-up choose view.'
     s.homepage     = 'https://github.com/micyo202/YZBottomSelectView'
     s.license      = 'MIT'
