@@ -1,5 +1,6 @@
 # YZBottomSelectView
-[![Cocoapods](https://img.shields.io/badge/cocoapods-1.0.1-brightgreen.svg)](https://cocoapods.org/?q=YZBottomSelectView)
+[![Cocoapods](https://img.shields.io/badge/pod-1.0.1-brightgreen.svg)](https://cocoapods.org/?q=YZBottomSelectView)
+[![Support](https://img.shields.io/badge/support-iOS11-blue.svg)](https://www.apple.com/nl/ios)
 [![Downloads](https://img.shields.io/badge/downloads-468KB-yellow.svg)](https://github.com/micyo202/YZBottomSelectView/archive/master.zip)
 [![License MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/micyo202/YZBottomSelectView/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/micyo202/YZBottomSelectView.svg?style=social&label=Stars)](https://github.com/micyo202/YZBottomSelectView)
